@@ -8,7 +8,7 @@
 #include "Hello.h"
 
 Hello::Hello() {
-	// TODO Auto-generated constructor stub
+	// TODO Auto-generated constructor stub encore
 
 }
 

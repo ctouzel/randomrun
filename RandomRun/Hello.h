@@ -14,4 +14,4 @@ public:
 	virtual ~Hello();
 };
 
-#endif /* HELLO_H_ */
+#endif /* HELLO_Hc_ */
